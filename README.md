@@ -1,0 +1,1 @@
+So this is the code for Flaura (Unoffical). I made this from the base code of Plantidote, by MikeBailleul. I havn't tested it yet. Hope this works as the code was not given in the official series of Flaura.
